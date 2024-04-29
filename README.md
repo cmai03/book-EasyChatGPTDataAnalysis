@@ -54,6 +54,9 @@
 
 #### [[ 예제 소스코드 안내 ]]
 
+- 예제 소스코드
+    - [Assistants API examples](assistants_api/index.ipynb)
+
 - Colab에서 연습하기
 
     <a href="https://colab.research.google.com/github/cmai03/book-EasyChatGPTDataAnalysis/blob/main/assistants_api/" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 
