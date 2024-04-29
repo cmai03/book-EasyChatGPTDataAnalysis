@@ -63,10 +63,6 @@
    
     ⚠️ _Colab은 임시 환경을 제공하므로 일정 시간이 지나면, 모든 작업은 삭제됩니다. 중요한 데이터는 반드시 다운로드하세요._
 
-- 예제 코드를 실행하지 않고, 바로 보기 
-
-    <a href="https://nbviewer.jupyter.org/github/cmai03/book-EasyChatGPTDataAnalysis/blob/main/assistants_api/index.ipynb"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="Render nbviewer" /></a>
-
 #### [[ 예제 데이터 목록 및 다운로드 안내 ]]
 
 예제를 위한 데이터를 다운로드할 수 있는 사이트입니다.
