@@ -59,7 +59,7 @@
 
 - Colab에서 연습하기
 
-    <a href="https://colab.research.google.com/github/cmai03/book-EasyChatGPTDataAnalysis/tree/main/assistants_api" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 
+    <a href="https://colab.research.google.com/github/cmai03/book-EasyChatGPTDataAnalysis/blob/main/assistants_api/index.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 
    
     ⚠️ _Colab은 임시 환경을 제공하므로 일정 시간이 지나면, 모든 작업은 삭제됩니다. 중요한 데이터는 반드시 다운로드하세요._
 
