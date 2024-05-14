@@ -3,7 +3,7 @@
 
 이 프로젝트는 (주)컴퓨매스에이아이의 첫 번째 책 "알기쉬운 챗GPT 생활 데이터 분석"의 연습 데이터의 링크 및 예제 코드가 포함되어 있습니다.
 
-![알기쉬운 챗GPT 생활 데이터 분석](images/book_cover.png)
+<a href="https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000007550831" target="_blank"><img src="images/book_cover.png"></a>
 
 **⚠️⚠️ 다운로드 링크는 해당 사이트의 상황에 따라 유효하지 않을 수 있습니다. ⚠️⚠️**
 
