@@ -52,6 +52,12 @@
 
 ### 3장. Assistants API
 
+#### [[ OpenAI Platform 에서 Thread 메뉴가 보이지 않으면?]]
+
+- 보안상의 이유로 프로젝트에 생성되어있는 Thread 메뉴 접근 권한을 설정할 수 있도록 되어 있습니다.
+
+- OpenAI 계정의 `Settings > Organization > General > Features and capabilities` 메뉴에서 Thread 항목을 모두에게서 감추거나, 소속 단체(Organization) 소유자들에게 보이도록 하거나, 모든 프로젝트 접근자들에게 보여주도록 설정할 수 있습니다.
+
 #### [[ 예제 소스코드 안내 ]]
 
 - 예제 소스코드
